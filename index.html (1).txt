@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="mr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>सूर्यवंशी वधू-वर सूचक</title>
+
+<style>
+body {
+margin: 0;
+font-family: 'Segoe UI', sans-serif;
+background: linear-gradient(135deg, #5a0f0f, #1a0303);
+color: white;
+}
+
+header {
+text-align: center;
+padding: 50px 20px;
+background: linear-gradient(to right, #8B0000, #b22222);
+}
+
+header h1 {
+font-size: 52px;
+color: gold;
+margin: 0;
+}
+
+header h2 {
+margin-top: 10px;
+font-weight: normal;
+}
+
+header p {
+font-style: italic;
+margin-top: 10px;
+}
+
+.section {
+padding: 40px 20px;
+text-align: center;
+}
+
+.card {
+background: rgba(255,255,255,0.08);
+margin: 15px auto;
+padding: 25px;
+border-radius: 15px;
+max-width: 600px;
+box-shadow: 0 0 10px rgba(0,0,0,0.4);
+}
+
+input, select {
+width: 90%;
+padding: 10px;
+margin: 10px;
+border-radius: 8px;
+border: none;
+}
+
+.btn {
+background: gold;
+color: black;
+padding: 12px 20px;
+border: none;
+border-radius: 8px;
+cursor: pointer;
+font-weight: bold;
+}
+
+.btn:hover {
+background: orange;
+}
+
+.whatsapp {
+background: #25D366;
+color: white;
+margin-top: 10px;
+}
+
+footer {
+text-align: center;
+padding: 20px;
+background: rgba(0,0,0,0.4);
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>सूर्यवंशी</h1>
+<h2>मराठा वधू-वर सूचक</h2>
+<p>"जिथे दोन मनं जुळतात... तिथे आयुष्याची नवी सुरुवात होते!"</p>
+</header>
+
+<div class="section">
+<div class="card">
+<h3>👤 प्रोप्रा. किशोर बळवंत सूर्यवंशी</h3>
+<p>📞 7875921177</p>
+<p>📧 kishorsury.123@gmail.com</p>
+</div>
+
+<div class="card">
+<h3>✨ आमच्या सेवा</h3>
+<p>✔ योग्य वधू-वर शोध</p>
+<p>✔ 100% विश्वासार्ह जुळणी</p>
+<p>✔ पारंपरिक + आधुनिक पद्धती</p>
+</div>
+</div>
+
+<div class="section">
+<div class="card">
+<h3>📝 नोंदणी फॉर्म</h3>
+
+<input type="text" placeholder="नाव">
+<input type="number" placeholder="वय">
+
+<select>
+<option>लिंग निवडा</option>
+<option>पुरुष</option>
+<option>स्त्री</option>
+</select>
+
+<input type="text" placeholder="शिक्षण">
+<input type="text" placeholder="व्यवसाय">
+<input type="tel" placeholder="मोबाइल नंबर">
+
+<button class="btn">सबमिट करा</button>
+
+<br><br>
+
+<a href="https://wa.me/917875921177" target="_blank">
+<button class="btn whatsapp">WhatsApp वर संपर्क करा</button>
+</a>
+
+</div>
+</div>
+
+<footer>
+<p>📍 राष्ट्रवादी भवन समोर, कारभारी चौक, कसबा बारामती</p>
+<p>© 2026 सूर्यवंशी वधू-वर सूचक</p>
+</footer>
+
+</body>
+</html>
